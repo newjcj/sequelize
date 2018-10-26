@@ -1,3 +1,5 @@
+// DOCS https://www.jianshu.com/p/32f0fb0d7700
+// DOCS https://github.com/demopark/sequelize-docs-Zh-CN
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
